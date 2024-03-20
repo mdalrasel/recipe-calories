@@ -1,0 +1,56 @@
+[
+    {
+        "image": "https://i.ibb.co/9VHC7RP/Grilled-lemon-Herb-Chicken-17.jpg",
+        "id": 1,
+        "name": "Grilled Lemon Herb Chicken",
+        "description": "Juicy and flavorful grilled chicken marinated with lemon and herbs.",
+        "ingredients": ["550 g chicken", "120 ml lemon juice", "3 cloves garlic (minced)", "2 tbsp olive oil", "2 tsp dried oregano", "Salt and pepper to taste"],
+        "time": "30 minutes",
+        "calories": "300 calories"
+    },
+    {
+        "image": "https://i.ibb.co/gZ4KT16/Recipes-Vegetarian-Pad-Thai.jpg",
+        "id": 2,
+        "name": "Vegetarian Pad Thai",
+        "description": "A classic Thai stir-fry noodle dish made with tofu and vegetables.",
+        "ingredients": ["200 g rice noodles", "150 g tofu (cubed)", "2 tbsp tamarind paste", "3 tbsp soy sauce", "1 cup bean sprouts", "2 cloves garlic (minced)"],
+        "time": "25 minutes",
+        "calories": "350 calories"
+    },
+    {
+        "image": "https://i.ibb.co/R9FMbbJ/Mushroom-Risotto-3.jpg",
+        "id": 3,
+        "name": "Mushroom Risotto",
+        "description": "Creamy and rich risotto with savory mushrooms.",
+        "ingredients": ["300 g Arborio rice", "400 g mushrooms (sliced)", "1 onion (chopped)", "1 liter vegetable broth", "1/2 cup white wine", "1/4 cup grated Parmesan cheese"],
+        "time": "40 minutes",
+        "calories": "400 calories"
+    },
+    {
+        "image": "https://i.ibb.co/SsLVNvv/11973-spaghetti-carbonara-mfs-042-21d5decdffde4a1faa94a21725ce9cc3.jpg",
+        "id": 4,
+        "name": "Spaghetti Carbonara",
+        "description": "A traditional Italian pasta dish with crispy bacon and creamy sauce.",
+        "ingredients": ["300 g spaghetti", "150 g bacon (chopped)", "3 eggs", "1/2 cup grated Parmesan cheese", "2 cloves garlic (minced)", "Salt and pepper to taste"],
+        "time": "20 minutes",
+        "calories": "450 calories"
+    },
+    {
+        "image": "https://i.ibb.co/86V8mWb/Dinner-Party.jpg",
+        "id": 5,
+        "name": "Caprese Salad",
+        "description": "A refreshing salad with tomatoes, mozzarella, and basil.",
+        "ingredients": ["4 large tomatoes (sliced)", "250 g fresh mozzarella (sliced)", "1/4 cup fresh basil leaves", "2 tbsp balsamic vinegar", "2 tbsp olive oil", "Salt and pepper to taste"],
+        "time": "15 minutes",
+        "calories": "200 calories"
+    },
+    {
+        "image": "https://i.ibb.co/2hgW0pq/bananacookies.jpg",
+        "id": 6,
+        "name": "Chocolate Chip Cookies",
+        "description": "Classic homemade cookies loaded with chocolate chips.",
+        "ingredients": ["1 cup butter (softened)", "1 cup brown sugar", "1/2 cup white sugar", "2 eggs", "2 tsp vanilla extract", "2 1/4 cups all-purpose flour", "1 tsp baking soda", "2 cups chocolate chips"],
+        "time": "12 minutes",
+        "calories": "150 calories "
+    }
+]
